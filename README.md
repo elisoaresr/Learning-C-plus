@@ -2,6 +2,7 @@
 Repository for c ++ applications
 
 Initializing algorithms...
+(Proud)
 
 Environment Academics 👨🏽‍💻
 (Private)
