@@ -1,7 +1,7 @@
 # knowlege-syntax
 Repository for c ++ applications
 
-Initializing algorithms...
+Initializing algorithms.
 (Proud)
 
 Environment Academics 👨🏽‍💻
